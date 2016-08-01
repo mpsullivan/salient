@@ -4,7 +4,7 @@
   <parent>
     <groupId>ws.salient</groupId>
     <artifactId>salient</artifactId>
-    <version>0.2.0-SNAPSHOT</version>
+    <version>0.2.0</version>
   </parent>
   <artifactId>salient-module</artifactId>
   <packaging>jar</packaging>
